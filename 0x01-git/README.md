@@ -1,2 +1,0 @@
-hello im alx student.
-
